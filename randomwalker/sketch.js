@@ -1,6 +1,6 @@
 var walker;
 function setup() {
-  createCanvas(600,600);
+  createCanvas(600,600,[WEBGL]);
   background(200);
   walker= new walker();
 }
