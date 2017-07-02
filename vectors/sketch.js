@@ -34,6 +34,6 @@ function ball(){
 			this.velocity.y=-this.velocity.y;
 		}if (this.location.y<10) {
 			this.velocity.y=-this.velocity.y;
-		}if () {}
+		}
 	}
 }
